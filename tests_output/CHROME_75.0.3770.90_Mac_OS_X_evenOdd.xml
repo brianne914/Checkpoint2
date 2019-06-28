@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="0"
+            tests="5">
+
+  <testsuite name="evenOdd"
+    errors="0" failures="0" hostname="" id="" package="evenOdd" skipped="0"
+    tests="5" time="26.39" timestamp="">
+  
+    <testcase name="Evens and Odds" classname="evenOdd" time="5.815" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Filter Object" classname="evenOdd" time="5.319" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Filter String" classname="evenOdd" time="5.364" assertions="1">
+
+    
+    </testcase>
+  
+    <testcase name="Palindrome" classname="evenOdd" time="6.556" assertions="2">
+
+    
+
+    
+    </testcase>
+  
+    <testcase name="Sum" classname="evenOdd" time="3.336" assertions="1">
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>
